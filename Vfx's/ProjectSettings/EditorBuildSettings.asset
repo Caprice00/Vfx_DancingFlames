@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Azula.unity
+    path: Assets/Scenes/Azula.unity
     guid: 645ccf090ce64094f99280f3f418273d
   - enabled: 1
-    path: Assets/NecroMancer.unity
+    path: Assets/Scenes/NecroMancer.unity
     guid: 1452e02d9f11ece46af03186e98484c1
   - enabled: 1
-    path: Assets/RoyalFlame.unity
+    path: Assets/Scenes/RoyalFlame.unity
     guid: d66fe26de99bf0044bf7293af00afd63
   - enabled: 1
-    path: Assets/Valentino.unity
+    path: Assets/Scenes/Valentino.unity
     guid: f877b8b4b459d2c419a44f102fee2220
   m_configObjects: {}
